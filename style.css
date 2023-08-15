@@ -1,0 +1,87 @@
+document.addEventListener("DOMContentLoaded
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact-form");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // Impede o envio padrão do formulário
+
+    const nome = document.getElementById("nome
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact-form");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // Impede o envio padrão do formulário
+
+    const nome = document.getElementById("
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact-form");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // Impede o envio padrão do formulário
+
+    const nome = document.getElementById("nome").value;
+    const email = document.getElementById("
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact-form");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // Impede o envio padrão do formulário
+
+    const nome = document.getElementById("nome").value;
+    const email = document.getElementById("email").value;
+    const telefone = document.getElementById("
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact-form");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // Impede o envio padrão do formulário
+
+    const nome = document.getElementById("nome").value;
+    const email = document.getElementById("email").value;
+    const telefone = document.getElementById("telefone").value;
+
+    // Aqui você pode realizar ações com os dados do formulário, como enviá-los para um servidor
+
+    // Exemplo: exibir os dados no console
+    console.log("
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact-form");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // Impede o envio padrão do formulário
+
+    const nome = document.getElementById("nome").value;
+    const email = document.getElementById("email").value;
+    const telefone = document.getElementById("telefone").value;
+
+    // Aqui você pode realizar ações com os dados do formulário, como enviá-los para um servidor
+
+    // Exemplo: exibir os dados no console
+    console.log("Nome:", nome);
+    console.log("
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("contact-form");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault(); // Impede o envio padrão do formulário
+
+    const nome = document.getElementById("nome").value;
+    const email = document.getElementById("email").value;
+    const telefone = document.getElementById("telefone").value;
+
+    // Aqui você pode realizar ações com os dados do formulário, como enviá-los para um servidor
+
+    // Exemplo: exibir os dados no console
+    console.log("Nome:", nome);
+    console.log("Email:", email);
+    console.log("Telefone:", telefone);
+
+    // Aqui você pode adicionar lógica para enviar os dados para um servidor, fazer validações, etc.
+  });
+});
